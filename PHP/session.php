@@ -3,7 +3,7 @@
     
         $wallet = $_POST['wallet'];
 
-        $mysqli = new mysqli('localhost','u505721908_muquifuler','SkDoL:&M;2*','u505721908_autotoken');
+        $mysqli = new mysqli('$SERVER','$USER','$PASS','$BD');
         $query = $mysqli -> query ($sql = "SELECT * FROM `Users` WHERE address = \"$wallet\";");
         $valores = mysqli_fetch_array($query);
 
