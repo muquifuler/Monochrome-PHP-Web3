@@ -1,7 +1,7 @@
 <?php
     session_start();
     
-    $conexion=mysqli_connect('localhost','u505721908_muquifuler','SkDoL:&M;2*','u505721908_autotoken') or die ('Error en la conexion');  
+    $conexion=mysqli_connect('$SERVER','$USER','$PASS','$BD') or die ('Error en la conexion');  
     //$consulta="SELECT*FROM Whitelist where Usuario='$userlogin' and Contrasena='$passlogin'";
     mysqli_select_db($conexion,'u505721908_autotoken')or die("problemas al conectar con la base de datos");
     //$wallet_free=$_POST['wallet_free'];
