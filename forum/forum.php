@@ -2,7 +2,7 @@
 <?php
     session_start();
 
-    $mysqli = new mysqli('localhost','u505721908_muquifuler','SkDoL:&M;2*','u505721908_autotoken');
+    $mysqli = new mysqli('$SERVER','$USER','$PASS','$BD');
 
     $cont_featured=0;
     $cont_posts=0;
