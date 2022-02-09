@@ -24,14 +24,6 @@
         Al publicar un articulo, este se minteará y la comision adicional
         sera de 1$.
 
-    Funciones adicionales (Free)
-
-        Cambiar foto perfil.
-        Que salgan el num total de respuestas.
-        Que suban de rango segun su implicacion en el foro.
-        ?Ventajas adicionales en el foro como que tus respuestas salgan
-        como destacadas.    
-
 -->
 
 <!DOCTYPE html>
