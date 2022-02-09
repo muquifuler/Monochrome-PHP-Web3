@@ -4,8 +4,9 @@
 ?>
 <!--
 
-    Un foro con un aspecto que recrea una consola de comandos e imita
-    el actual funcionamiento de telnet, 
+    Un foro Web3, con un aspecto que de consola de comandos, 
+
+    Registro e inicio de sesión con wallet sin contraseñas.
 
     Tokenomics
 
