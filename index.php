@@ -1,6 +1,6 @@
 <?php
     session_start();
-    $mysqli = new mysqli('$SERVER','$USER','$PASS*','$BD');
+    $mysqli = new mysqli('$SERVER','$USER','$PASS','$BD');
 ?>
 <!--
 
