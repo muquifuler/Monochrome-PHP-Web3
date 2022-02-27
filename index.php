@@ -10,20 +10,15 @@
 
     Tokenomics
 
-        90% pool reservada a quema paulatina de 1 año
-        7% Public Sale
-        3% Private Sale
+        90% pool reservada a quema paulatina infinita
+        7% Forum utilities
+        2% Public Sale
+        1% Private Sale
 
-    Comisiones
+    Fees
 
-        10% Devs
-        50% Marketing
+        60% Marketing
         40% AutoToken Ecosystem
-
-    NFT
-
-        Al publicar un articulo, este se minteará y la comision adicional
-        sera de 1$.
 
 -->
 
