@@ -1,6 +1,6 @@
 # Monochrome (has functionality)
 
-Alpha 0.2v -> https://autotoken.tech/monochrome/index.php
+Alpha 1.0v -> https://autotoken.tech/monochrome/index.php
 
 Web3 Forum :::: Whitepaper: https://alfonsorob11.gitbook.io/monochrome/
 
