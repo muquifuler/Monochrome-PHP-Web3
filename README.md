@@ -1,4 +1,6 @@
 # Monochrome
+## Monochrome merges the benefits of a 2.0 and a 3.0 forum
+
 Alpha 1.0v -> https://autotoken.tech/monochrome/index.php
 
 Web3 Forum :::: Whitepaper: https://alfonsorob11.gitbook.io/monochrome/
